@@ -1,4 +1,4 @@
-```markdown
+
 # 🛡️ Phishing Email Detection System
 
 ### Machine Learning Powered Email Security
@@ -601,7 +601,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024
+Copyright (c) 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -616,9 +616,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ## Contact
 
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/PHOENIX](https://github.com/debjit604)
 - **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/Debjit Das](https://linkedin.com/in/debjit-das-48571b236)
 
 <br>
 
@@ -628,6 +628,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 </p>
 ```
 
----
 
-This README is clean, properly formatted, error-free, and contains all essential information. Simply replace `yourusername` and `your.email@example.com` with your actual details. Every section is properly closed, every code block is correctly formatted, and all markdown syntax is valid.
